@@ -1,0 +1,445 @@
+21:27:03.627 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+21:27:04.095 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+21:27:04.640 [main] INFO  testBase.BaseClass - Clicked on Register Link
+21:27:04.644 [main] INFO  testBase.BaseClass - Provideing Customer Details
+21:27:26.581 [main] INFO  testBase.BaseClass - Validation excepted message
+21:27:26.629 [main] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
+22:07:58.471 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+22:07:58.612 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+22:07:59.048 [main] INFO  testBase.BaseClass - Clicked on Register Link
+22:07:59.053 [main] INFO  testBase.BaseClass - Provideing Customer Details
+22:08:20.839 [main] INFO  testBase.BaseClass - Validation excepted message
+22:08:20.926 [main] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
+22:08:46.022 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+22:08:46.318 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+22:08:47.642 [main] INFO  testBase.BaseClass - Clicked on Register Link
+22:08:47.654 [main] INFO  testBase.BaseClass - Provideing Customer Details
+22:09:09.140 [main] INFO  testBase.BaseClass - Validation excepted message
+22:09:09.188 [main] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
+22:13:43.735 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+22:13:44.152 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+22:13:44.632 [main] INFO  testBase.BaseClass - Clicked on Register Link
+22:13:44.637 [main] INFO  testBase.BaseClass - Provideing Customer Details
+22:14:06.405 [main] INFO  testBase.BaseClass - Validation excepted message
+22:14:12.946 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+22:14:13.235 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+22:14:13.633 [main] INFO  testBase.BaseClass - Clicked on Register Link
+22:14:13.634 [main] INFO  testBase.BaseClass - Provideing Customer Details
+22:14:34.968 [main] INFO  testBase.BaseClass - Validation excepted message
+22:14:35.011 [main] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
+22:14:38.510 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+22:14:38.620 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+22:14:39.055 [main] INFO  testBase.BaseClass - Clicked on Register Link
+22:14:39.056 [main] INFO  testBase.BaseClass - Provideing Customer Details
+22:14:41.078 [main] ERROR testBase.BaseClass - Test failed...
+22:14:41.078 [main] DEBUG testBase.BaseClass - Debug logs.... 
+22:15:21.567 [TestNG-tests-3] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+22:15:21.695 [TestNG-tests-1] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+22:15:21.844 [TestNG-tests-3] INFO  testBase.BaseClass - Clicked on MyAccount Link
+22:15:22.432 [TestNG-tests-1] INFO  testBase.BaseClass - Clicked on MyAccount Link
+22:15:22.499 [TestNG-tests-3] INFO  testBase.BaseClass - Clicked on Register Link
+22:15:22.503 [TestNG-tests-3] INFO  testBase.BaseClass - Provideing Customer Details
+22:15:23.116 [TestNG-tests-1] INFO  testBase.BaseClass - Clicked on Register Link
+22:15:23.117 [TestNG-tests-1] INFO  testBase.BaseClass - Provideing Customer Details
+22:15:26.239 [TestNG-tests-2] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+22:15:26.502 [TestNG-tests-2] INFO  testBase.BaseClass - Clicked on MyAccount Link
+22:15:26.899 [TestNG-tests-2] INFO  testBase.BaseClass - Clicked on Register Link
+22:15:26.900 [TestNG-tests-2] INFO  testBase.BaseClass - Provideing Customer Details
+22:15:44.132 [TestNG-tests-3] INFO  testBase.BaseClass - Validation excepted message
+22:15:44.203 [TestNG-tests-3] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
+22:15:44.888 [TestNG-tests-1] INFO  testBase.BaseClass - Validation excepted message
+22:15:44.919 [TestNG-tests-1] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
+22:15:48.019 [TestNG-tests-2] INFO  testBase.BaseClass - Validation excepted message
+22:15:48.058 [TestNG-tests-2] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
+08:41:06.598 [main] INFO  testBase.BaseClass - ***** Starting TC_002_LoginTest *************
+08:52:15.493 [main] INFO  testBase.BaseClass - ***** Starting TC_002_LoginTest *************
+08:57:43.260 [main] INFO  testBase.BaseClass - ***** Starting TC_002_LoginTest *************
+09:09:54.058 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+09:09:54.362 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+09:09:54.885 [main] INFO  testBase.BaseClass - Clicked on Register Link
+09:09:54.889 [main] INFO  testBase.BaseClass - Provideing Customer Details
+09:10:16.563 [main] INFO  testBase.BaseClass - Validation excepted message
+09:10:16.610 [main] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
+09:10:50.858 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+09:10:51.295 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+09:10:51.854 [main] INFO  testBase.BaseClass - Clicked on Register Link
+09:10:51.858 [main] INFO  testBase.BaseClass - Provideing Customer Details
+09:11:13.837 [main] INFO  testBase.BaseClass - Validation excepted message
+09:11:13.925 [main] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
+09:11:42.530 [main] INFO  testBase.BaseClass - ***** Starting TC_002_LoginTest *************
+09:16:56.399 [main] INFO  testBase.BaseClass - ***** Starting TC_002_LoginTest *************
+09:17:39.579 [main] INFO  testBase.BaseClass - ***** Starting TC_002_LoginTest *************
+15:04:20.870 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:20.911 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:04:20.914 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:21.669 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:21.672 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:04:21.674 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:21.720 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:21.722 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:04:21.724 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:21.773 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:21.774 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:04:21.777 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:21.813 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:21.814 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:04:21.816 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:21.853 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:21.855 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:04:21.856 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:21.891 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:21.892 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:04:21.894 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:21.926 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:21.928 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:04:21.930 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:21.962 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:21.964 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:04:21.966 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:21.995 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:21.996 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:04:21.998 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:22.049 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:22.050 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:04:22.052 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:22.088 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:22.090 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:04:22.092 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:22.127 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:22.129 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:04:22.132 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:22.168 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:22.170 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:04:22.172 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:22.203 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:22.205 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:04:22.207 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:22.236 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:22.239 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:04:22.240 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:22.279 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:04:22.281 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:04:22.284 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:04:22.378 [main] INFO  testBase.BaseClass - ******* starting TC_003_LoginDDT ************ 
+15:04:34.482 [main] INFO  testBase.BaseClass - ******* starting TC_003_LoginDDT ************ 
+15:04:34.517 [main] INFO  testBase.BaseClass - ******* starting TC_003_LoginDDT ************ 
+15:04:34.549 [main] INFO  testBase.BaseClass - ******* starting TC_003_LoginDDT ************ 
+15:04:34.565 [main] INFO  testBase.BaseClass - ******* starting TC_003_LoginDDT ************ 
+15:13:43.394 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:13:43.403 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:13:43.407 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:13:44.007 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:13:44.009 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:13:44.011 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:13:44.051 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:13:44.053 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:13:44.055 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:13:44.094 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:13:44.096 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:13:44.098 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:13:44.134 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:13:44.137 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:13:44.139 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:13:44.170 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:13:44.171 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:13:44.173 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:13:44.202 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:13:44.204 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:13:44.206 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:13:44.241 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:13:44.243 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:13:44.245 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:13:44.271 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:13:44.273 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:13:44.274 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:13:44.302 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:13:44.303 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:13:44.305 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:13:44.333 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:13:44.335 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:13:44.336 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:13:44.362 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:13:44.364 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:13:44.366 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:13:44.396 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:13:44.397 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:13:44.399 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:13:44.421 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:13:44.422 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:13:44.423 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:13:44.450 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:13:44.451 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:13:44.452 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:13:44.482 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:13:44.485 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:13:44.486 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:13:44.511 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:13:44.513 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:13:44.515 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:13:44.560 [main] INFO  testBase.BaseClass - ******* starting TC_003_LoginDDT ************ 
+15:13:56.676 [main] INFO  testBase.BaseClass - ******* starting TC_003_LoginDDT ************ 
+15:14:09.113 [main] INFO  testBase.BaseClass - ******* Finished TC_003_LoginDDT ************ 
+15:14:09.124 [main] INFO  testBase.BaseClass - ******* starting TC_003_LoginDDT ************ 
+15:14:12.966 [main] INFO  testBase.BaseClass - ******* Finished TC_003_LoginDDT ************ 
+15:14:12.973 [main] INFO  testBase.BaseClass - ******* starting TC_003_LoginDDT ************ 
+15:14:13.087 [main] INFO  testBase.BaseClass - ******* starting TC_003_LoginDDT ************ 
+15:16:21.798 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+15:16:21.983 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+15:16:23.031 [main] INFO  testBase.BaseClass - Clicked on Register Link
+15:16:23.090 [main] INFO  testBase.BaseClass - Provideing Customer Details
+15:16:45.588 [main] INFO  testBase.BaseClass - Validation excepted message
+15:16:45.653 [main] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
+15:22:20.022 [main] INFO  testBase.BaseClass - ***** Starting TC_002_LoginTest *************
+15:22:22.460 [main] INFO  testBase.BaseClass - ***** Finished TC_002_LoginTest *************
+15:22:49.698 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:22:49.710 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:22:49.716 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:22:50.311 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:22:50.314 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:22:50.317 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:22:50.361 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:22:50.363 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:22:50.366 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:22:50.418 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:22:50.419 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:22:50.422 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:22:50.463 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:22:50.464 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:22:50.467 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:22:50.511 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:22:50.513 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:22:50.516 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:22:50.555 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:22:50.557 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:22:50.559 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:22:50.609 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:22:50.611 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:22:50.613 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:22:50.648 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:22:50.650 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:22:50.652 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:22:50.686 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:22:50.687 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:22:50.689 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:22:50.732 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:22:50.734 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:22:50.736 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:22:50.772 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:22:50.773 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:22:50.775 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:22:50.806 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:22:50.807 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:22:50.809 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:22:50.843 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:22:50.845 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:22:50.846 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:22:50.877 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:22:50.878 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:22:50.880 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:22:50.912 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:22:50.914 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:22:50.915 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:22:50.945 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:22:50.947 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:22:50.948 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:22:50.999 [main] INFO  testBase.BaseClass - ******* starting TC_003_LoginDDT ************ 
+15:22:54.424 [main] INFO  testBase.BaseClass - ******* Finished TC_003_LoginDDT ************ 
+15:22:54.431 [main] INFO  testBase.BaseClass - ******* starting TC_003_LoginDDT ************ 
+15:22:57.506 [main] INFO  testBase.BaseClass - ******* starting TC_003_LoginDDT ************ 
+15:23:00.850 [main] INFO  testBase.BaseClass - ******* starting TC_003_LoginDDT ************ 
+15:23:12.743 [main] INFO  testBase.BaseClass - ******* Finished TC_003_LoginDDT ************ 
+15:23:12.748 [main] INFO  testBase.BaseClass - ******* starting TC_003_LoginDDT ************ 
+15:23:16.377 [main] INFO  testBase.BaseClass - ******* Finished TC_003_LoginDDT ************ 
+15:29:18.984 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:29:18.993 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:29:18.996 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:29:19.742 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:29:19.743 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:29:19.746 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:29:19.788 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:29:19.789 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:29:19.792 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:29:19.843 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:29:19.845 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:29:19.848 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:29:19.883 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:29:19.886 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:29:19.889 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:29:19.922 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:29:19.924 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:29:19.926 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:29:19.970 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:29:19.973 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:29:19.975 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:29:20.007 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:29:20.010 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:29:20.011 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:29:20.045 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:29:20.047 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:29:20.048 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:29:20.078 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:29:20.080 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:29:20.082 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:29:20.111 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:29:20.113 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:29:20.114 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:29:20.144 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:29:20.146 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:29:20.148 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:29:20.178 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:29:20.179 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:29:20.181 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:29:20.210 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:29:20.211 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:29:20.213 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:29:20.238 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:29:20.240 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:29:20.241 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:29:20.265 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:29:20.267 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:29:20.269 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:29:20.296 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:29:20.299 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:29:20.301 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:29:20.352 [main] INFO  testBase.BaseClass - ******* starting TC_003_LoginDDT ************ 
+15:29:27.635 [main] INFO  testBase.BaseClass - ******* Finished TC_003_LoginDDT ************ 
+15:29:27.652 [main] INFO  testBase.BaseClass - ******* starting TC_003_LoginDDT ************ 
+15:29:35.900 [main] INFO  testBase.BaseClass - ******* Finished TC_003_LoginDDT ************ 
+15:29:35.926 [main] INFO  testBase.BaseClass - ******* starting TC_003_LoginDDT ************ 
+15:29:44.112 [main] INFO  testBase.BaseClass - ******* Finished TC_003_LoginDDT ************ 
+15:29:44.122 [main] INFO  testBase.BaseClass - ******* starting TC_003_LoginDDT ************ 
+15:29:59.069 [main] INFO  testBase.BaseClass - ******* Finished TC_003_LoginDDT ************ 
+15:29:59.078 [main] INFO  testBase.BaseClass - ******* starting TC_003_LoginDDT ************ 
+15:30:07.403 [main] INFO  testBase.BaseClass - ******* Finished TC_003_LoginDDT ************ 
+15:52:13.284 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+15:52:13.505 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+15:52:14.675 [main] INFO  testBase.BaseClass - Clicked on Register Link
+15:52:14.682 [main] INFO  testBase.BaseClass - Provideing Customer Details
+15:52:38.300 [main] INFO  testBase.BaseClass - Validation excepted message
+15:52:38.420 [main] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
+15:52:45.044 [main] INFO  testBase.BaseClass - ***** Starting TC_002_LoginTest *************
+15:52:48.216 [main] INFO  testBase.BaseClass - ***** Finished TC_002_LoginTest *************
+16:13:19.309 [main] INFO  testBase.BaseClass - ***** Starting TC_002_LoginTest *************
+16:13:21.910 [main] INFO  testBase.BaseClass - ***** Finished TC_002_LoginTest *************
+19:02:37.072 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+19:02:37.667 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+19:02:38.706 [main] INFO  testBase.BaseClass - Clicked on Register Link
+19:02:38.711 [main] INFO  testBase.BaseClass - Provideing Customer Details
+19:03:02.461 [main] INFO  testBase.BaseClass - Validation excepted message
+19:03:02.559 [main] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
+19:03:08.053 [main] INFO  testBase.BaseClass - ***** Starting TC_002_LoginTest *************
+19:03:08.052 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+19:03:08.776 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+19:03:09.833 [main] INFO  testBase.BaseClass - Clicked on Register Link
+19:03:09.839 [main] INFO  testBase.BaseClass - Provideing Customer Details
+19:03:11.346 [main] INFO  testBase.BaseClass - ***** Finished TC_002_LoginTest *************
+19:03:33.292 [main] INFO  testBase.BaseClass - Validation excepted message
+19:03:33.411 [main] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
+19:03:37.681 [main] INFO  testBase.BaseClass - ***** Starting TC_002_LoginTest *************
+19:03:41.497 [main] INFO  testBase.BaseClass - ***** Finished TC_002_LoginTest *************
+19:10:12.581 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+19:10:13.189 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+19:10:14.438 [main] INFO  testBase.BaseClass - Clicked on Register Link
+19:10:14.445 [main] INFO  testBase.BaseClass - Provideing Customer Details
+19:10:37.877 [main] INFO  testBase.BaseClass - Validation excepted message
+19:10:38.005 [main] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
+19:10:43.683 [main] INFO  testBase.BaseClass - ***** Starting TC_002_LoginTest *************
+19:12:05.308 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+19:12:05.737 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+19:12:07.107 [main] INFO  testBase.BaseClass - Clicked on Register Link
+19:12:07.117 [main] INFO  testBase.BaseClass - Provideing Customer Details
+19:12:31.002 [main] INFO  testBase.BaseClass - Validation excepted message
+19:12:31.104 [main] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
+19:12:36.732 [main] INFO  testBase.BaseClass - ***** Starting TC_002_LoginTest *************
+19:19:37.831 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+19:19:38.286 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+19:19:39.417 [main] INFO  testBase.BaseClass - Clicked on Register Link
+19:19:39.423 [main] INFO  testBase.BaseClass - Provideing Customer Details
+19:20:03.326 [main] INFO  testBase.BaseClass - Validation excepted message
+19:20:03.424 [main] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
+19:20:08.168 [main] INFO  testBase.BaseClass - ***** Starting TC_002_LoginTest *************
+19:26:57.725 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+19:26:58.161 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+19:26:59.237 [main] INFO  testBase.BaseClass - Clicked on Register Link
+19:26:59.241 [main] INFO  testBase.BaseClass - Provideing Customer Details
+19:27:23.109 [main] INFO  testBase.BaseClass - Validation excepted message
+19:27:23.208 [main] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
+19:27:30.807 [main] INFO  testBase.BaseClass - ***** Starting TC_002_LoginTest *************
+19:29:00.604 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+19:29:00.992 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+19:29:01.967 [main] INFO  testBase.BaseClass - Clicked on Register Link
+19:29:01.973 [main] INFO  testBase.BaseClass - Provideing Customer Details
+19:29:25.512 [main] INFO  testBase.BaseClass - Validation excepted message
+19:29:25.638 [main] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
+19:29:29.951 [main] INFO  testBase.BaseClass - ***** Starting TC_002_LoginTest *************
+19:29:34.079 [main] INFO  testBase.BaseClass - ***** Finished TC_002_LoginTest *************
+20:46:56.456 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+20:46:56.656 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+20:46:58.172 [main] INFO  testBase.BaseClass - Clicked on Register Link
+20:46:58.175 [main] INFO  testBase.BaseClass - Provideing Customer Details
+20:47:22.046 [main] INFO  testBase.BaseClass - Validation excepted message
+20:47:22.130 [main] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
+20:47:27.927 [main] INFO  testBase.BaseClass - ***** Starting TC_002_LoginTest *************
+20:47:30.347 [main] INFO  testBase.BaseClass - ***** Finished TC_002_LoginTest *************
+21:11:31.085 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+21:11:31.228 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+21:11:32.754 [main] INFO  testBase.BaseClass - Clicked on Register Link
+21:11:32.757 [main] INFO  testBase.BaseClass - Provideing Customer Details
+21:11:54.965 [main] INFO  testBase.BaseClass - Validation excepted message
+21:11:55.041 [main] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
+21:12:00.434 [main] INFO  testBase.BaseClass - ***** Starting TC_002_LoginTest *************
+21:12:02.801 [main] INFO  testBase.BaseClass - ***** Finished TC_002_LoginTest *************
+21:18:01.239 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+21:18:01.445 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+21:18:02.962 [main] INFO  testBase.BaseClass - Clicked on Register Link
+21:18:02.966 [main] INFO  testBase.BaseClass - Provideing Customer Details
+21:18:25.075 [main] INFO  testBase.BaseClass - Validation excepted message
+21:18:25.141 [main] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
+21:18:29.231 [main] INFO  testBase.BaseClass - ***** Starting TC_002_LoginTest *************
+21:18:31.867 [main] INFO  testBase.BaseClass - ***** Finished TC_002_LoginTest *************
+08:43:07.981 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+08:43:08.540 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+08:43:09.138 [main] INFO  testBase.BaseClass - Clicked on Register Link
+08:43:09.144 [main] INFO  testBase.BaseClass - Provideing Customer Details
+08:43:15.670 [main] ERROR testBase.BaseClass - Test failed...
+08:43:15.670 [main] DEBUG testBase.BaseClass - Debug logs.... 
+08:57:57.766 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+08:57:58.003 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+08:57:58.544 [main] INFO  testBase.BaseClass - Clicked on Register Link
+08:57:58.548 [main] INFO  testBase.BaseClass - Provideing Customer Details
+08:58:06.999 [main] ERROR testBase.BaseClass - Test failed...
+08:58:06.999 [main] DEBUG testBase.BaseClass - Debug logs.... 
+09:13:12.721 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+09:13:13.184 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+09:13:13.768 [main] INFO  testBase.BaseClass - Clicked on Register Link
+09:13:13.773 [main] INFO  testBase.BaseClass - Provideing Customer Details
+09:13:17.954 [main] ERROR testBase.BaseClass - Test failed...
+09:13:17.955 [main] DEBUG testBase.BaseClass - Debug logs.... 
+09:19:29.126 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+09:19:29.589 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+09:19:30.283 [main] INFO  testBase.BaseClass - Clicked on Register Link
+09:19:30.289 [main] INFO  testBase.BaseClass - Provideing Customer Details
+09:19:32.316 [main] ERROR testBase.BaseClass - Test failed...
+09:19:32.316 [main] DEBUG testBase.BaseClass - Debug logs.... 
+08:26:23.076 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+08:26:23.257 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+08:26:24.245 [main] INFO  testBase.BaseClass - Clicked on Register Link
+08:26:24.249 [main] INFO  testBase.BaseClass - Provideing Customer Details
+08:26:28.390 [main] ERROR testBase.BaseClass - Test failed...
+08:26:28.391 [main] DEBUG testBase.BaseClass - Debug logs.... 
+08:27:03.352 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+08:27:03.496 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+08:27:04.455 [main] INFO  testBase.BaseClass - Clicked on Register Link
+08:27:04.458 [main] INFO  testBase.BaseClass - Provideing Customer Details
+08:27:26.688 [main] INFO  testBase.BaseClass - Validation excepted message
+08:27:26.726 [main] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
+08:27:30.647 [main] INFO  testBase.BaseClass - ***** Starting TC_002_LoginTest *************
+08:27:33.296 [main] INFO  testBase.BaseClass - ***** Finished TC_002_LoginTest *************
+08:28:25.841 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+08:28:25.982 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+08:28:26.873 [main] INFO  testBase.BaseClass - Clicked on Register Link
+08:28:26.877 [main] INFO  testBase.BaseClass - Provideing Customer Details
+08:28:49.047 [main] INFO  testBase.BaseClass - Validation excepted message
+08:28:49.119 [main] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
+08:28:55.461 [main] INFO  testBase.BaseClass - ***** Starting TC_002_LoginTest *************
+08:28:57.832 [main] INFO  testBase.BaseClass - ***** Finished TC_002_LoginTest *************
