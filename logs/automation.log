@@ -1,0 +1,14 @@
+09:02:24.538 [main] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+09:02:24.788 [main] INFO  testBase.BaseClass - Clicked on MyAccount Link
+09:02:25.777 [main] INFO  testBase.BaseClass - Clicked on Register Link
+09:02:25.782 [main] INFO  testBase.BaseClass - Provideing Customer Details
+09:02:48.112 [main] INFO  testBase.BaseClass - Validation excepted message
+09:02:48.170 [main] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
+09:02:55.094 [main] INFO  testBase.BaseClass - ***** Starting TC_002_LoginTest *************
+09:02:57.508 [main] INFO  testBase.BaseClass - ***** Finished TC_002_LoginTest *************
+09:11:09.366 [TestNG-tests-3] INFO  testBase.BaseClass - *************  Starting TC001_AccountRegistrationTest ************
+09:11:09.572 [TestNG-tests-3] INFO  testBase.BaseClass - Clicked on MyAccount Link
+09:11:10.956 [TestNG-tests-3] INFO  testBase.BaseClass - Clicked on Register Link
+09:11:10.960 [TestNG-tests-3] INFO  testBase.BaseClass - Provideing Customer Details
+09:11:33.242 [TestNG-tests-3] INFO  testBase.BaseClass - Validation excepted message
+09:11:33.300 [TestNG-tests-3] INFO  testBase.BaseClass - ***** Finished TC001_AccountRegistrationTest ******
